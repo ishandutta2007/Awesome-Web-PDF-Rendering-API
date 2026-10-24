@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-PDF-Rendering-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-PDF-Rendering-API?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-PDF-Rendering-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-PDF-Rendering-API?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-PDF-Rendering-API/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-PDF-Rendering-API?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-PDF-Rendering-API/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Web-PDF-Rendering-API?style=flat-square&color=success" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-PDF-Rendering-API/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Web-PDF-Rendering-API?style=flat-square" alt="Last Commit"/></a>
@@ -73,74 +73,74 @@ Commercial Web PDF SDKs and hosted rendering APIs provide turnkey, battle-tested
 
 Open-source web PDF rendering projects give engineering teams full sovereignty over sensitive documents, avoiding external data leaks, third-party vendor lock-in, and unpredictable per-page metered API costs.
 
-*The list below is sorted by **GitHub Star Count** in descending order.*
+*The list below is sorted by **GitHub Stars_Count** in descending order.*
 
-1. **[PDF.js](https://github.com/mozilla/pdf.js)** [![GitHub stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social&color=white)](https://github.com/mozilla/pdf.js/stargazers)  
+1. **[PDF.js](https://github.com/mozilla/pdf.js)** [![GitHub_Stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social&color=white)](https://github.com/mozilla/pdf.js/stargazers)  
    *The industry standard web-native PDF parser and renderer, maintained by Mozilla.*  
    Built on HTML5 Canvas and SVG standards, PDF.js powers Firefox's built-in PDF viewer. Architecture consists of three modular layers: **Core** (binary PDF interpretation and stream decoding), **Display** (rendering pipeline emitting to HTML5 `<canvas>`), and **Viewer** (the reference UI framework). Foundation for nearly all modern web PDF wrappers.  
    `License: Apache-2.0` • `Language: JavaScript`
 
-2. **[jsPDF](https://github.com/parallax/jsPDF)** [![GitHub stars](https://img.shields.io/github/stars/parallax/jsPDF?style=social&color=white)](https://github.com/parallax/jsPDF/stargazers)  
+2. **[jsPDF](https://github.com/parallax/jsPDF)** [![GitHub_Stars](https://img.shields.io/github/stars/parallax/jsPDF?style=social&color=white)](https://github.com/parallax/jsPDF/stargazers)  
    *Leading client-side JavaScript PDF generation and canvas rendering library.*  
    Enables in-browser document generation, HTML-to-PDF rendering via Canvas snapshots, vector path drawing, and dynamic layout synthesis without any backend dependencies.  
    `License: MIT` • `Language: JavaScript`
 
-3. **[pdfmake](https://github.com/bpampuch/pdfmake)** [![GitHub stars](https://img.shields.io/github/stars/bpampuch/pdfmake?style=social&color=white)](https://github.com/bpampuch/pdfmake/stargazers)  
+3. **[pdfmake](https://github.com/bpampuch/pdfmake)** [![GitHub_Stars](https://img.shields.io/github/stars/bpampuch/pdfmake?style=social&color=white)](https://github.com/bpampuch/pdfmake/stargazers)  
    *Declarative document-definition-based PDF generation and preview engine.*  
    Renders complex vector layouts, tables, multi-column articles, and formatted text directly in the browser or server runtime using a clean JSON-like declarative syntax.  
    `License: MIT` • `Language: JavaScript`
 
-4. **[react-pdf](https://github.com/wojtekmaj/react-pdf)** [![GitHub stars](https://img.shields.io/github/stars/wojtekmaj/react-pdf?style=social&color=white)](https://github.com/wojtekmaj/react-pdf/stargazers)  
+4. **[react-pdf](https://github.com/wojtekmaj/react-pdf)** [![GitHub_Stars](https://img.shields.io/github/stars/wojtekmaj/react-pdf?style=social&color=white)](https://github.com/wojtekmaj/react-pdf/stargazers)  
    *The standard React integration wrapper for Mozilla PDF.js.*  
    Displays PDF documents as idiomatic React components (`<Document />`, `<Page />`). Supports CSS text layers, interactive selection, virtualized page rendering, and custom worker CDN configurations.  
    `License: MIT` • `Language: TypeScript/JavaScript`
 
-5. **[pdf-lib](https://github.com/Hopding/pdf-lib)** [![GitHub stars](https://img.shields.io/github/stars/Hopding/pdf-lib?style=social&color=white)](https://github.com/Hopding/pdf-lib/stargazers)  
+5. **[pdf-lib](https://github.com/Hopding/pdf-lib)** [![GitHub_Stars](https://img.shields.io/github/stars/Hopding/pdf-lib?style=social&color=white)](https://github.com/Hopding/pdf-lib/stargazers)  
    *Pure JavaScript PDF creation, modification, and page extraction library for web & Node.*  
    Enables client-side page merging, splitting, embedding vector graphics, drawing text, encrypting/decrypting, and programmatic AcroForm field manipulation directly in the browser.  
    `License: MIT` • `Language: TypeScript`
 
-6. **[vue-office](https://github.com/501351981/vue-office)** [![GitHub stars](https://img.shields.io/github/stars/501351981/vue-office?style=social&color=white)](https://github.com/501351981/vue-office/stargazers)  
+6. **[vue-office](https://github.com/501351981/vue-office)** [![GitHub_Stars](https://img.shields.io/github/stars/501351981/vue-office?style=social&color=white)](https://github.com/501351981/vue-office/stargazers)  
    *Universal Web Document preview engine for PDF, DOCX, XLSX, and PPTX.*  
    Provides ready-to-use components supporting Vue 2, Vue 3, and React environments. Handles complex page flows, lazy loading, and rendering optimizations for enterprise file previews.  
    `License: MIT` • `Language: Vue/TypeScript`
 
-7. **[pdfme](https://github.com/pdfme/pdfme)** [![GitHub stars](https://img.shields.io/github/stars/pdfme/pdfme?style=social&color=white)](https://github.com/pdfme/pdfme/stargazers)  
+7. **[pdfme](https://github.com/pdfme/pdfme)** [![GitHub_Stars](https://img.shields.io/github/stars/pdfme/pdfme?style=social&color=white)](https://github.com/pdfme/pdfme/stargazers)  
    *TypeScript PDF generator, schema renderer, and interactive visual template editor.*  
    Lightweight alternative to bulky commercial engines. Features a visual web UI designer for templates and instant client-side rendering with JSON schemas.  
    `License: MIT` • `Language: TypeScript`
 
-8. **[vue-pdf](https://github.com/FranckFreiburger/vue-pdf)** [![GitHub stars](https://img.shields.io/github/stars/FranckFreiburger/vue-pdf?style=social&color=white)](https://github.com/FranckFreiburger/vue-pdf/stargazers)  
+8. **[vue-pdf](https://github.com/FranckFreiburger/vue-pdf)** [![GitHub_Stars](https://img.shields.io/github/stars/FranckFreiburger/vue-pdf?style=social&color=white)](https://github.com/FranckFreiburger/vue-pdf/stargazers)  
    *Vue.js PDF viewer component built on top of PDF.js.*  
    Wraps PDF.js page rendering in reactive Vue components with support for custom zoom levels, page events, and responsive container resizing.  
    `License: MIT` • `Language: JavaScript/Vue`
 
-9. **[ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer)** [![GitHub stars](https://img.shields.io/github/stars/VadimDez/ng2-pdf-viewer?style=social&color=white)](https://github.com/VadimDez/ng2-pdf-viewer/stargazers)  
+9. **[ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer)** [![GitHub_Stars](https://img.shields.io/github/stars/VadimDez/ng2-pdf-viewer?style=social&color=white)](https://github.com/VadimDez/ng2-pdf-viewer/stargazers)  
    *Angular PDF viewer component powered by Mozilla's PDF.js.*  
    High-performance viewer component for Angular (v2 through v18+) supporting page rotation, text layer searches, bookmark outlines, and autofit zooming.  
    `License: MIT` • `Language: TypeScript`
 
-10. **[vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)** [![GitHub stars](https://img.shields.io/github/stars/hrynko/vue-pdf-embed?style=social&color=white)](https://github.com/hrynko/vue-pdf-embed/stargazers)  
+10. **[vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)** [![GitHub_Stars](https://img.shields.io/github/stars/hrynko/vue-pdf-embed?style=social&color=white)](https://github.com/hrynko/vue-pdf-embed/stargazers)  
     *Lightweight PDF embed component for Vue 2 and Vue 3.*  
     Zero configuration required. Provides simple props for width, height, page selection, text layer rendering, and custom annotation CSS styles.  
     `License: MIT` • `Language: TypeScript/Vue`
 
-11. **[MuPDF.js](https://github.com/ArtifexSoftware/mupdf.js)** [![GitHub stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf.js?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf.js/stargazers)  
+11. **[MuPDF.js](https://github.com/ArtifexSoftware/mupdf.js)** [![GitHub_Stars](https://img.shields.io/github/stars/ArtifexSoftware/mupdf.js?style=social&color=white)](https://github.com/ArtifexSoftware/mupdf.js/stargazers)  
     *The WebAssembly build of Artifex's high-fidelity MuPDF engine.*  
     Delivers rendering fidelity identical to native desktop MuPDF. Supports rasterization, vector path extraction, redaction, text search, and AcroForm parsing in Node, Chrome, Firefox, Safari, and Bun.  
     `License: AGPL-3.0 / Commercial` • `Language: C / WebAssembly / TypeScript`
 
-12. **[ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)** [![GitHub stars](https://img.shields.io/github/stars/stephanrauh/ngx-extended-pdf-viewer?style=social&color=white)](https://github.com/stephanrauh/ngx-extended-pdf-viewer/stargazers)  
+12. **[ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer)** [![GitHub_Stars](https://img.shields.io/github/stars/stephanrauh/ngx-extended-pdf-viewer?style=social&color=white)](https://github.com/stephanrauh/ngx-extended-pdf-viewer/stargazers)  
     *Enterprise-grade, full-featured PDF viewer component for Angular.*  
     Brings full Mozilla PDF.js UI into Angular apps, including two-page spreads, form editing, drawing tools, signature capture, printing, and thumbnail sidebars.  
     `License: Apache-2.0` • `Language: TypeScript`
 
-13. **[FRESH-AIR-PDF](https://github.com/VeARCTechnologies/FRESH-AIR-PDF)** [![GitHub stars](https://img.shields.io/github/stars/VeARCTechnologies/FRESH-AIR-PDF?style=social&color=white)](https://github.com/VeARCTechnologies/FRESH-AIR-PDF/stargazers)  
+13. **[FRESH-AIR-PDF](https://github.com/VeARCTechnologies/FRESH-AIR-PDF)** [![GitHub_Stars](https://img.shields.io/github/stars/VeARCTechnologies/FRESH-AIR-PDF?style=social&color=white)](https://github.com/VeARCTechnologies/FRESH-AIR-PDF/stargazers)  
     *Self-hosted React PDF viewer component with built-in annotations and form fields.*  
     Open-source replacement for commercial annotation SDKs. Includes highlight, ink drawing, text stamps, interactive checkboxes/radios/dropdowns, and JSON import/export.  
     `License: MIT` • `Language: TypeScript/React`
 
-14. **[lumipdf](https://github.com/pulkitgxrg/lumipdf)** [![GitHub stars](https://img.shields.io/github/stars/pulkitgxrg/lumipdf?style=social&color=white)](https://github.com/pulkitgxrg/lumipdf/stargazers)  
+14. **[lumipdf](https://github.com/pulkitgxrg/lumipdf)** [![GitHub_Stars](https://img.shields.io/github/stars/pulkitgxrg/lumipdf?style=social&color=white)](https://github.com/pulkitgxrg/lumipdf/stargazers)  
     *React PDF viewer component featuring Canva-style editable annotations.*  
     Provides draggable, resizable, and selectable annotation overlays with virtualized rendering optimized for multi-hundred page documents.  
     `License: MIT` • `Language: TypeScript/React`
@@ -186,7 +186,7 @@ We welcome contributions from the developer community! To add or update an entry
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a new branch: `git checkout -b feat/add-pdf-tool`.
 3. 📝 Update `README.md` following the established table / badge conventions.
-4. 🚀 Ensure all links are active, descriptions are factual, and star badges match the target repo.
+4. 🚀 Ensure all links are active, descriptions are factual, and Stars_Badges match the target repo.
 5. 📬 Submit a clean **Pull Request** with an informative summary.
 
 Discover more curated lists at [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
